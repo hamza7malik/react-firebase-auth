@@ -19,7 +19,7 @@ const Listing = ({ users }) => {
                     <Card.Title>{item.name}</Card.Title>
                     <Card.Text>company: {item.company.name}</Card.Text>
                     <Card.Text>Email: {item.email}</Card.Text>
-                    <Button variant='primary'>Buy</Button>
+                    <Button variant='primary'>Contact</Button>
                   </Card.Body>
                 </Card>
               </div>
